@@ -23,7 +23,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 - **AI-powered products:** I build LLM features into real apps: RAG search, AI agents, summarization and data extraction.
 - **AI-first development:** I use AI coding agents (Claude Code, Cursor, GitHub Copilot) every day to plan, write, test, review and document code, with me owning architecture and quality.
 - **Full-stack delivery:** web apps with Next.js and React, mobile apps with Flutter.
-- Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend and full-stack roles.
+- Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend, AI engineer and full-stack roles.
 
 ---
 
@@ -32,7 +32,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 | Area | Tools |
 |---|---|
 | **Backend** | NestJS, Node.js, TypeScript, Python, FastAPI, REST, WebSockets, microservice architecture |
-| **AI / LLM** | OpenAI, Claude & Gemini APIs, open models (Llama, Mistral) via Ollama / Hugging Face, RAG, embeddings & vector DBs (pgvector), AI agents & tool calling, MCP, LangChain, prompt engineering, model evaluation |
+| **AI / LLM** | OpenAI, Claude & Gemini APIs, RAG, embeddings & vector search (pgvector), AI agents & tool calling, MCP, LangChain, prompt engineering |
 | **AI-Assisted Dev** | Claude Code, Cursor, GitHub Copilot, ChatGPT, agentic coding workflows, AI code review, AI-generated tests & docs |
 | **Web** | Next.js, React, Tailwind CSS |
 | **Mobile** | Flutter, Dart, Firebase |
@@ -47,11 +47,9 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
