@@ -139,8 +139,8 @@ Node.js and blockchain development in an Agile/Scrum team.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lamberto15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamberto15&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamberto15&theme=github_dark" alt="GitHub stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lamberto15&theme=github_dark" alt="Top languages"/>
 
 </div>
 
