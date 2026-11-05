@@ -2,7 +2,7 @@
 
 # Lamberto Tamayo Jr.
 
-### Backend & AI Engineer · NestJS & Node.js · LLM Apps · Web & Mobile
+### Backend & AI Engineer · NestJS & Node.js · Web & Mobile
 
 I build scalable backends and AI-powered products. I let AI write the repetitive code, so my time goes into the engineering that matters: architecture, scalability and reliability.
 
