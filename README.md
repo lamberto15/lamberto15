@@ -4,7 +4,7 @@
 
 ### Backend & AI Engineer · NestJS · LLMs & Machine Learning · Web & Mobile
 
-I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML models), and I develop AI-first, using coding agents to ship web and mobile products faster.
+I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML models), I let AI write the repetitive code, so my time goes into the engineering that matters: architecture, scalability and reliability.
 
 [![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Remote_/_Hybrid-22c55e?style=for-the-badge)](mailto:lambertotamayo15@gmail.com)
 
@@ -70,7 +70,19 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 
 ## How I Build with AI
 
-AI is part of how I work every day, not just something I add to products.
+AI now writes most of the repetitive code: boilerplate, CRUD endpoints, DTOs, tests, docs. That changes what being an engineer means. Less time typing code, more time **engineering**:
+
+> **Coding is the easy part now. Engineering is the job.**
+
+| AI handles | I focus on |
+|---|---|
+| Boilerplate, CRUD, DTOs, config | System design and architecture |
+| Repetitive UI screens and widgets | Scalability, performance and caching |
+| First drafts of tests and docs | Reliability, security and edge cases |
+| Refactors and code migrations | Data modeling and API contracts |
+| Searching docs and examples | Product decisions and business impact |
+
+**My workflow:**
 
 - **Plan:** use AI to explore designs, compare trade-offs and draft technical specs before writing code.
 - **Build:** pair with coding agents (Claude Code, Cursor, Copilot) to scaffold NestJS modules, APIs, React/Next.js screens and Flutter widgets.
