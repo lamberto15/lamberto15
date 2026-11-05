@@ -20,7 +20,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 
 - **5+ years** building production software, backend-first: API design, system architecture and performance.
 - **Microservice-ready backends** with NestJS: modular services, Docker containers, built to scale out horizontally.
-- **AI-powered products:** I build AI features into real apps: AI agents, chat assistants, summarization and data extraction.
+- **AI-powered products:** I build AI features into real apps: RAG (AI that answers from company data), AI agents, chat assistants, summarization and data extraction.
 - **AI-first development:** I use AI coding agents (Claude Code, Cursor, GitHub Copilot) every day to plan, write, test, review and document code, with me owning architecture and quality.
 - **Full-stack delivery:** web apps with Next.js and React, mobile apps with React Native and Flutter.
 - Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend, AI engineer and full-stack roles.
@@ -32,7 +32,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 | Area | Tools |
 |---|---|
 | **Backend** | NestJS, Node.js, TypeScript, Python, FastAPI, REST, WebSockets, microservice architecture |
-| **AI / LLM** | OpenAI, Claude & Gemini APIs, AI agents & tool calling, MCP, LangChain, prompt engineering |
+| **AI / LLM** | OpenAI, Claude & Gemini APIs, RAG, AI agents & tool calling, MCP, LangChain, prompt engineering |
 | **AI-Assisted Dev** | Claude Code, Cursor, GitHub Copilot, ChatGPT, agentic coding workflows, AI code review, AI-generated tests & docs |
 | **Web** | Next.js, React, Tailwind CSS |
 | **Mobile** | React Native, Flutter, Dart, Firebase |
@@ -94,9 +94,9 @@ AI now writes most of the repetitive code: boilerplate, CRUD endpoints, DTOs, te
 NestJS · PostgreSQL · Redis · Docker<br>
 Designed a modular backend that can split cleanly into microservices. Containerized with Docker and built to scale horizontally, with Redis caching and consistent API contracts.
 
-**AI Assistant Tools**<br>
+**AI Assistant & RAG Tools**<br>
 NestJS · OpenAI / Claude · Python<br>
-Built AI-powered internal tools for summarization, data extraction and assistant-style workflows, with agents that call internal APIs. Compared models on accuracy, speed and cost before choosing one.
+Built AI-powered internal tools that answer questions and summarize using the company's own data (RAG): the backend retrieves the relevant records and documents, then the model generates grounded answers. Also built data extraction and agents that call internal APIs. Compared models on accuracy, speed and cost before choosing one.
 
 **Process Automation**<br>
 Python · FastAPI · UiPath<br>
@@ -128,7 +128,7 @@ Responsive portfolio with glass-style UI and automatic deployment on every push.
 ## Experience
 
 **Software Developer** · Enterprise / professional services · *2022 – Present*<br>
-Backend architecture with NestJS, AI R&D (assistants, agents), and full-stack delivery across web and mobile.
+Backend architecture with NestJS, AI R&D (RAG, assistants, agents), and full-stack delivery across web and mobile.
 
 **Software Developer** · Software startup · *2021 – 2022*<br>
 Node.js and blockchain development in an Agile/Scrum team.
