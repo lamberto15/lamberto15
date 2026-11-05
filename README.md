@@ -2,9 +2,9 @@
 
 # Lamberto Tamayo Jr.
 
-### Backend & AI Engineer · NestJS · LLMs & Machine Learning · Web & Mobile
+### Backend & AI Engineer · NestJS & Node.js · LLM Apps · Web & Mobile
 
-I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML models), I let AI write the repetitive code, so my time goes into the engineering that matters: architecture, scalability and reliability.
+I build scalable backends and AI-powered products. I let AI write the repetitive code, so my time goes into the engineering that matters: architecture, scalability and reliability.
 
 [![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Remote_/_Hybrid-22c55e?style=for-the-badge)](mailto:lambertotamayo15@gmail.com)
 
@@ -20,7 +20,7 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 
 - **4+ years** building production software, backend-first: API design, system architecture and performance.
 - **Microservice-ready backends** with NestJS: modular services, Docker containers, built to scale out horizontally.
-- **AI & ML engineering:** I build LLM-powered features (RAG search, AI agents, summarization, data extraction), pick and evaluate models, and work with ML in Python.
+- **AI-powered products:** I build LLM features into real apps: RAG search, AI agents, summarization and data extraction.
 - **AI-first development:** I use AI coding agents (Claude Code, Cursor, GitHub Copilot) every day to plan, write, test, review and document code, with me owning architecture and quality.
 - **Full-stack delivery:** web apps with Next.js and React, mobile apps with Flutter.
 - Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend and full-stack roles.
@@ -34,7 +34,6 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 | **Backend** | NestJS, Node.js, TypeScript, Python, FastAPI, REST, WebSockets, microservice architecture |
 | **AI / LLM** | OpenAI, Claude & Gemini APIs, open models (Llama, Mistral) via Ollama / Hugging Face, RAG, embeddings & vector DBs (pgvector), AI agents & tool calling, MCP, LangChain, prompt engineering, model evaluation |
 | **AI-Assisted Dev** | Claude Code, Cursor, GitHub Copilot, ChatGPT, agentic coding workflows, AI code review, AI-generated tests & docs |
-| **Machine Learning** | Python, NumPy, Pandas, scikit-learn, PyTorch, Jupyter, model training & fine-tuning, serving models behind FastAPI |
 | **Web** | Next.js, React, Tailwind CSS |
 | **Mobile** | Flutter, Dart, Firebase |
 | **Data** | PostgreSQL, MongoDB, Redis |
@@ -53,8 +52,6 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -102,9 +99,9 @@ Designed a modular backend that can split cleanly into microservices. Containeri
 NestJS · OpenAI / Claude · pgvector · Python<br>
 Built LLM-powered tools for document Q&A, summarization and data extraction: embeddings in a vector database, retrieval-augmented answers, and agents that call internal APIs. Compared models on accuracy, latency and cost before choosing one.
 
-**ML Models & Automation**<br>
-Python · scikit-learn · PyTorch · FastAPI · UiPath<br>
-Trained and evaluated ML models on business data and served them through FastAPI endpoints the backend can call. Automated repetitive processes with Python and RPA.
+**Process Automation**<br>
+Python · FastAPI · UiPath<br>
+Automated repetitive business processes with Python scripts, FastAPI services and RPA bots.
 
 **Browser-Based VoIP Calling**<br>
 FreeSWITCH · WebRTC · NestJS · React<br>
@@ -124,7 +121,7 @@ Responsive portfolio with glass-style UI and automatic deployment on every push.
 
 - Agentic AI workflows with tool calling and MCP servers
 - Custom AI coding setups: project rules, reusable prompts and agents tailored to NestJS codebases
-- Fine-tuning and running open-source models locally (Llama, Mistral)
+- Running open-source models locally (Llama, Mistral) and exploring machine learning
 - Production LLM practices: evaluation, guardrails, cost and latency optimization
 
 ---
@@ -132,7 +129,7 @@ Responsive portfolio with glass-style UI and automatic deployment on every push.
 ## Experience
 
 **Software Developer** · Enterprise / professional services · *2022 – Present*<br>
-Backend architecture with NestJS, AI/LLM R&D (RAG, agents, model evaluation), and full-stack delivery across web and mobile.
+Backend architecture with NestJS, AI/LLM R&D (RAG, agents), and full-stack delivery across web and mobile.
 
 **Software Developer** · Software startup · *2021 – 2022*<br>
 Node.js and blockchain development in an Agile/Scrum team.
