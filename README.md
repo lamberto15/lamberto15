@@ -22,7 +22,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 - **Microservice-ready backends** with NestJS: modular services, Docker containers, built to scale out horizontally.
 - **AI-powered products:** I build AI features into real apps: AI agents, chat assistants, summarization and data extraction.
 - **AI-first development:** I use AI coding agents (Claude Code, Cursor, GitHub Copilot) every day to plan, write, test, review and document code, with me owning architecture and quality.
-- **Full-stack delivery:** web apps with Next.js and React, mobile apps with Flutter.
+- **Full-stack delivery:** web apps with Next.js and React, mobile apps with React Native and Flutter.
 - Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend, AI engineer and full-stack roles.
 
 ---
@@ -35,7 +35,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 | **AI / LLM** | OpenAI, Claude & Gemini APIs, AI agents & tool calling, MCP, LangChain, prompt engineering |
 | **AI-Assisted Dev** | Claude Code, Cursor, GitHub Copilot, ChatGPT, agentic coding workflows, AI code review, AI-generated tests & docs |
 | **Web** | Next.js, React, Tailwind CSS |
-| **Mobile** | Flutter, Dart, Firebase |
+| **Mobile** | React Native, Flutter, Dart, Firebase |
 | **Data** | PostgreSQL, MongoDB, Redis |
 | **Cloud & DevOps** | Docker, GitHub Actions, AWS, Google Cloud |
 | **Also** | WebRTC & FreeSWITCH (VoIP), blockchain, RPA (UiPath) |
@@ -53,6 +53,7 @@ I build scalable backends and AI-powered products. I let AI write the repetitive
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -80,7 +81,7 @@ AI now writes most of the repetitive code: boilerplate, CRUD endpoints, DTOs, te
 **My workflow:**
 
 - **Plan:** use AI to explore designs, compare trade-offs and draft technical specs before writing code.
-- **Build:** pair with coding agents (Claude Code, Cursor, Copilot) to scaffold NestJS modules, APIs, React/Next.js screens and Flutter widgets.
+- **Build:** pair with coding agents (Claude Code, Cursor, Copilot) to scaffold NestJS modules, APIs, React/Next.js screens and React Native / Flutter mobile screens.
 - **Test & review:** generate unit and integration tests, run AI code reviews and catch bugs earlier.
 - **Document & automate:** auto-generate docs, READMEs and commit/PR summaries; wire AI into CI with GitHub Actions.
 - **Stay in control:** every AI change goes through my review. I own the architecture, security and final quality.
