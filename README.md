@@ -4,7 +4,7 @@
 
 ### Backend & AI Engineer · NestJS · LLMs & Machine Learning · Web & Mobile
 
-I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML models), then ship the web and mobile apps that put them in users' hands.
+I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML models), and I develop AI-first, using coding agents to ship web and mobile products faster.
 
 [![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Remote_/_Hybrid-22c55e?style=for-the-badge)](mailto:lambertotamayo15@gmail.com)
 
@@ -20,7 +20,8 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 
 - **4+ years** building production software, backend-first: API design, system architecture and performance.
 - **Microservice-ready backends** with NestJS: modular services, Docker containers, built to scale out horizontally.
-- **AI & ML engineering:** I build LLM-powered features (RAG search, AI agents, summarization, data extraction), pick and evaluate models, and work with ML in Python. AI coding tools are part of my daily workflow.
+- **AI & ML engineering:** I build LLM-powered features (RAG search, AI agents, summarization, data extraction), pick and evaluate models, and work with ML in Python.
+- **AI-first development:** I use AI coding agents (Claude Code, Cursor, GitHub Copilot) every day to plan, write, test, review and document code, with me owning architecture and quality.
 - **Full-stack delivery:** web apps with Next.js and React, mobile apps with Flutter.
 - Based in the **Philippines 🇵🇭**, open to **remote or hybrid** backend and full-stack roles.
 
@@ -32,6 +33,7 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 |---|---|
 | **Backend** | NestJS, Node.js, TypeScript, Python, FastAPI, REST, WebSockets, microservice architecture |
 | **AI / LLM** | OpenAI, Claude & Gemini APIs, open models (Llama, Mistral) via Ollama / Hugging Face, RAG, embeddings & vector DBs (pgvector), AI agents & tool calling, MCP, LangChain, prompt engineering, model evaluation |
+| **AI-Assisted Dev** | Claude Code, Cursor, GitHub Copilot, ChatGPT, agentic coding workflows, AI code review, AI-generated tests & docs |
 | **Machine Learning** | Python, NumPy, Pandas, scikit-learn, PyTorch, Jupyter, model training & fine-tuning, serving models behind FastAPI |
 | **Web** | Next.js, React, Tailwind CSS |
 | **Mobile** | Flutter, Dart, Firebase |
@@ -47,6 +49,9 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -60,6 +65,18 @@ I build scalable backends and the AI behind them (LLM apps, RAG, agents and ML m
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </div>
+
+---
+
+## How I Build with AI
+
+AI is part of how I work every day, not just something I add to products.
+
+- **Plan:** use AI to explore designs, compare trade-offs and draft technical specs before writing code.
+- **Build:** pair with coding agents (Claude Code, Cursor, Copilot) to scaffold NestJS modules, APIs, React/Next.js screens and Flutter widgets.
+- **Test & review:** generate unit and integration tests, run AI code reviews and catch bugs earlier.
+- **Document & automate:** auto-generate docs, READMEs and commit/PR summaries; wire AI into CI with GitHub Actions.
+- **Stay in control:** every AI change goes through my review. I own the architecture, security and final quality.
 
 ---
 
@@ -94,6 +111,7 @@ Responsive portfolio with glass-style UI and automatic deployment on every push.
 ## Currently Building
 
 - Agentic AI workflows with tool calling and MCP servers
+- Custom AI coding setups: project rules, reusable prompts and agents tailored to NestJS codebases
 - Fine-tuning and running open-source models locally (Llama, Mistral)
 - Production LLM practices: evaluation, guardrails, cost and latency optimization
 
